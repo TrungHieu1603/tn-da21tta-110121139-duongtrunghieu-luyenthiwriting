@@ -1,0 +1,40 @@
+[09:46:38] === ANALYZE_ESSAY START ===
+[09:46:38] Task Type: task2
+[09:46:38] Prompt: Some people say that music is a good way of bringing people of different cultures and ages together. To what extent do you agree or disagree with this opinion?
+[09:46:38] Essay Length: 2028 chars
+[09:46:38] Context: None
+[09:46:38] Instructions: Give reasons for your answer and include any relevant examples from your own knowledge or experience. You should write at least 250 words.
+[09:46:38] Source: Cambridge IELTS 14 – Test 3, Writing Task 2
+[09:46:38] === GPT REQUEST ===
+[09:46:38] Model: gpt-4
+[09:46:38] System Prompt Length: 5236 chars
+[09:46:38] User Prompt Length: 4604 chars
+[09:46:38] Calling GPT API...
+[09:46:49] GPT API call successful
+[09:46:49] === GPT RESPONSE ===
+[09:46:49] Task Achievement: 0
+[09:46:49] Coherence & Cohesion: 4
+[09:46:49] Lexical Resource: 5
+[09:46:49] Grammar: 6
+[09:46:49] === ANALYSIS COMPLETE ===
+[09:46:49] Final scores logged successfully
+[09:48:41] === ANALYZE_ESSAY START ===
+[09:48:41] Task Type: task2
+[09:48:41] Prompt: Some people say that advertising is extremely successful at persuading us to buy things. Other people think that advertising is so common that we no longer pay attention to it. Discuss both these views and give your own opinion.
+[09:48:41] Essay Length: 1850 chars
+[09:48:41] Context: None
+[09:48:41] Instructions: Give reasons for your answer and include any relevant examples from your own knowledge or experience. You should write at least 250 words.
+[09:48:41] Source: Cambridge IELTS 15 – Test 3, Writing Task 2
+[09:48:41] === GPT REQUEST ===
+[09:48:41] Model: gpt-4
+[09:48:41] System Prompt Length: 5236 chars
+[09:48:41] User Prompt Length: 4495 chars
+[09:48:41] Calling GPT API...
+[09:48:56] GPT API call successful
+[09:48:56] === GPT RESPONSE ===
+[09:48:56] Task Achievement: 0
+[09:48:56] Coherence & Cohesion: 4
+[09:48:56] Lexical Resource: 5
+[09:48:56] Grammar: 6
+[09:48:56] === ANALYSIS COMPLETE ===
+[09:48:56] Final scores logged successfully

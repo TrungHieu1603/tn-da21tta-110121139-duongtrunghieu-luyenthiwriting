@@ -1,0 +1,111 @@
+[23:30:54] === ANALYZE_ESSAY START ===
+[23:30:54] Task Type: task2
+[23:30:54] Prompt: Some people believe that online learning is more effective than traditional classroom learning, while others disagree. Discuss both views and give your own opinion.
+[23:30:54] Essay Length: 2024 chars
+[23:30:54] Context: None
+[23:30:54] Instructions: You should write at least 250 words. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.
+[23:30:54] Source: None
+[23:30:54] === GPT REQUEST ===
+[23:30:54] Model: gpt-4
+[23:30:54] System Prompt Length: 5236 chars
+[23:30:54] User Prompt Length: 4547 chars
+[23:30:54] Calling GPT API...
+[23:31:12] GPT API call successful
+[23:31:12] === GPT RESPONSE ===
+[23:31:12] Task Achievement: 9
+[23:31:12] Coherence & Cohesion: 8.5
+[23:31:12] Lexical Resource: 8.5
+[23:31:12] Grammar: 8.5
+[23:31:12] WARNING: High Task Achievement 9 - verify topic match
+[23:31:12] === ANALYSIS COMPLETE ===
+[23:31:12] Final scores logged successfully
+[23:31:37] === ANALYZE_ESSAY START ===
+[23:31:37] Task Type: task1
+[23:31:37] Prompt: The diagram below shows how electricity is generated in a hydroelectric power station. Summarise the information by selecting and reporting the main features and make comparisons where relevant.
+[23:31:37] Essay Length: 2024 chars
+[23:31:37] Context: None
+[23:31:37] Instructions: You should write at least 150 words. You should spend about 20 minutes on this task.
+[23:31:37] Source: Cambridge IELTS 14 – Test 3, Writing Task 1
+[23:31:37] === GPT REQUEST ===
+[23:31:37] Model: gpt-4
+[23:31:37] System Prompt Length: 5236 chars
+[23:31:37] User Prompt Length: 4581 chars
+[23:31:37] Calling GPT API...
+[23:32:01] GPT API call successful
+[23:32:01] === GPT RESPONSE ===
+[23:32:01] Task Achievement: 0
+[23:32:01] Coherence & Cohesion: 4
+[23:32:01] Lexical Resource: 5
+[23:32:01] Grammar: 7
+[23:32:01] === ANALYSIS COMPLETE ===
+[23:32:01] Final scores logged successfully
+[23:37:38] === ANALYZE_ESSAY START ===
+[23:37:38] Task Type: task1
+[23:37:38] Prompt: Write an email to respond to Brianna.
+[23:37:38] Essay Length: 531 chars
+[23:37:38] Context: Great to hear that you are going to visit Dubai! I'm sure you will have a wonderful time there. Don't worry, I'll look after your house and your pet while you are away. I just want to know the time you leave for Dubai and when you will be back. I don't have a lot of experience looking after animals, so tell me how to care for your pet. Also, are there any other household duties I am supposed to do?
+
+Lots of love,
+Brianna
+[23:37:38] Instructions: You should write at least 120 words. Do not include your name. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.
+[23:37:38] Source: None
+[23:37:38] === GPT REQUEST ===
+[23:37:38] Model: gpt-4
+[23:37:38] System Prompt Length: 5236 chars
+[23:37:38] User Prompt Length: 3396 chars
+[23:37:38] Calling GPT API...
+[23:37:58] GPT API call successful
+[23:37:58] === GPT RESPONSE ===
+[23:37:58] Task Achievement: 0
+[23:37:58] Coherence & Cohesion: 4
+[23:37:58] Lexical Resource: 5
+[23:37:58] Grammar: 7
+[23:37:58] === ANALYSIS COMPLETE ===
+[23:37:58] Final scores logged successfully
+[23:38:55] === ANALYZE_ESSAY START ===
+[23:38:55] Task Type: task1
+[23:38:55] Prompt: Write an email to inquire about travel arrangements.
+[23:38:55] Essay Length: 531 chars
+[23:38:55] Context: Hello,
+
+I hope this email finds you well. I am planning a trip to your city next month and would like to know more about the travel packages you offer. I am particularly interested in cultural tours and local experiences.
+
+I would appreciate any information you can provide.
+
+Thank you,
+Tour Inquiry
+[23:38:55] Instructions: You should write at least 120 words. Do not include your name.
+[23:38:55] Source: None
+[23:38:55] === GPT REQUEST ===
+[23:38:55] Model: gpt-4
+[23:38:55] System Prompt Length: 5236 chars
+[23:38:55] User Prompt Length: 3186 chars
+[23:38:55] Calling GPT API...
+[23:39:14] GPT API call successful
+[23:39:14] === GPT RESPONSE ===
+[23:39:14] Task Achievement: 0
+[23:39:14] Coherence & Cohesion: 4
+[23:39:14] Lexical Resource: 4.5
+[23:39:14] Grammar: 5
+[23:39:14] === ANALYSIS COMPLETE ===
+[23:39:14] Final scores logged successfully
+[23:43:17] === ANALYZE_ESSAY START ===
+[23:43:17] Task Type: task1
+[23:43:17] Prompt: The diagram below shows how electricity is generated in a hydroelectric power station. Summarise the information by selecting and reporting the main features and make comparisons where relevant.
+[23:43:17] Essay Length: 418 chars
+[23:43:17] Context: None
+[23:43:17] Instructions: You should write at least 150 words. You should spend about 20 minutes on this task.
+[23:43:17] Source: Cambridge IELTS 14 – Test 3, Writing Task 1
+[23:43:17] === GPT REQUEST ===
+[23:43:17] Model: gpt-4
+[23:43:17] System Prompt Length: 5236 chars
+[23:43:17] User Prompt Length: 2975 chars
+[23:43:17] Calling GPT API...
+[23:43:31] GPT API call successful
+[23:43:31] === GPT RESPONSE ===
+[23:43:31] Task Achievement: 0
+[23:43:31] Coherence & Cohesion: 4
+[23:43:31] Lexical Resource: 5
+[23:43:31] Grammar: 7
+[23:43:31] === ANALYSIS COMPLETE ===
+[23:43:31] Final scores logged successfully

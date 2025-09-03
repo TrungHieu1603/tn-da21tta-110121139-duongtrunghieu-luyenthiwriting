@@ -1,0 +1,64 @@
+[01:57:28] === ANALYZE_ESSAY START ===
+[01:57:28] Task Type: task1
+[01:57:28] Prompt: Write an email to respond to Brianna.
+[01:57:28] Essay Length: 802 chars
+[01:57:28] Context: Great to hear that you are going to visit Dubai! I'm sure you will have a wonderful time there. Don't worry, I'll look after your house and your pet while you are away. I just want to know the time you leave for Dubai and when you will be back. I don't have a lot of experience looking after animals, so tell me how to care for your pet. Also, are there any other household duties I am supposed to do?
+
+Lots of love,
+Brianna
+[01:57:28] Instructions: You should write at least 120 words. Do not include your name. Your response will be evaluated in terms of Task Fulfillment, Organization, Vocabulary and Grammar.
+[01:57:28] Source: None
+[01:57:28] === GPT REQUEST ===
+[01:57:28] Model: gpt-4
+[01:57:28] System Prompt Length: 5236 chars
+[01:57:28] User Prompt Length: 3667 chars
+[01:57:28] Calling GPT API...
+[01:57:39] GPT API call successful
+[01:57:39] === GPT RESPONSE ===
+[01:57:39] Task Achievement: 0
+[01:57:39] Coherence & Cohesion: 0
+[01:57:39] Lexical Resource: 0
+[01:57:39] Grammar: 0
+[01:57:39] === ANALYSIS COMPLETE ===
+[01:57:39] Final scores logged successfully
+[09:15:17] === ANALYZE_ESSAY START ===
+[09:15:17] Task Type: task1
+[09:15:17] Prompt: The diagram below shows how electricity is generated in a hydroelectric power station. Summarise the information by selecting and reporting the main features and make comparisons where relevant.
+[09:15:17] Essay Length: 1164 chars
+[09:15:17] Context: None
+[09:15:17] Instructions: You should write at least 150 words. You should spend about 20 minutes on this task.
+[09:15:17] Source: Cambridge IELTS 14 – Test 3, Writing Task 1
+[09:15:17] === GPT REQUEST ===
+[09:15:17] Model: gpt-4
+[09:15:17] System Prompt Length: 5236 chars
+[09:15:17] User Prompt Length: 3721 chars
+[09:15:17] Calling GPT API...
+[09:15:31] GPT API call successful
+[09:15:31] === GPT RESPONSE ===
+[09:15:31] Task Achievement: 0
+[09:15:31] Coherence & Cohesion: 0
+[09:15:31] Lexical Resource: 0
+[09:15:31] Grammar: 0
+[09:15:31] === ANALYSIS COMPLETE ===
+[09:15:31] Final scores logged successfully
+[09:16:13] === ANALYZE_ESSAY START ===
+[09:16:13] Task Type: task1
+[09:16:13] Prompt: The diagram below shows how electricity is generated in a hydroelectric power station. Summarise the information by selecting and reporting the main features and make comparisons where relevant.
+[09:16:13] Essay Length: 1271 chars
+[09:16:13] Context: None
+[09:16:13] Instructions: You should write at least 150 words. You should spend about 20 minutes on this task.
+[09:16:13] Source: Cambridge IELTS 14 – Test 3, Writing Task 1
+[09:16:13] === GPT REQUEST ===
+[09:16:13] Model: gpt-4
+[09:16:13] System Prompt Length: 5236 chars
+[09:16:13] User Prompt Length: 3828 chars
+[09:16:13] Calling GPT API...
+[09:16:29] GPT API call successful
+[09:16:29] === GPT RESPONSE ===
+[09:16:29] Task Achievement: 8.5
+[09:16:29] Coherence & Cohesion: 8
+[09:16:29] Lexical Resource: 7.5
+[09:16:29] Grammar: 8
+[09:16:29] WARNING: High Task Achievement 8.5 - verify topic match
+[09:16:29] === ANALYSIS COMPLETE ===
+[09:16:29] Final scores logged successfully

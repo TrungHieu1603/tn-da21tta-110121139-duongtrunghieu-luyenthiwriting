@@ -1,0 +1,33 @@
+[03:20:13] === ANALYZE_ESSAY START ===
+[03:20:13] Task Type: task1
+[03:20:13] Prompt: The diagram below shows how electricity is generated in a hydroelectric power station. Summarise the information by selecting and reporting the main features and make comparisons where relevant.
+[03:20:13] Essay Length: 1164 chars
+[03:20:13] Context: None
+[03:20:13] Instructions: You should write at least 150 words. You should spend about 20 minutes on this task.
+[03:20:13] Source: Cambridge IELTS 14 – Test 3, Writing Task 1
+[03:20:13] === GPT REQUEST ===
+[03:20:13] Model: gpt-4
+[03:20:13] System Prompt Length: 5236 chars
+[03:20:13] User Prompt Length: 3721 chars
+[03:20:13] Calling GPT API...
+[03:20:15] FATAL ERROR in analyze_essay: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************SjUA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+[03:20:15] Traceback: Traceback (most recent call last):
+  File "C:\Users\TRUCXUAN\Documents\GitHub\band_boost\backend\controllers\writing_controller.py", line 319, in analyze_essay
+    response = client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TRUCXUAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\openai\_utils\_utils.py", line 301, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TRUCXUAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\openai\resources\chat\completions.py", line 598, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\TRUCXUAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\openai\_base_client.py", line 1096, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TRUCXUAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\openai\_base_client.py", line 856, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "C:\Users\TRUCXUAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\openai\_base_client.py", line 908, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************SjUA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+

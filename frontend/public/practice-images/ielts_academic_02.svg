@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="300" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e293b">
+    Plastic Bottle Recycling Process
+  </text>
+  
+  <!-- Step 1: Collection -->
+  <rect x="50" y="50" width="100" height="60" fill="#dbeafe" stroke="#3b82f6" stroke-width="2" rx="5"/>
+  <text x="100" y="75" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#1e40af">Collection</text>
+  <text x="100" y="90" text-anchor="middle" font-family="Arial" font-size="10" fill="#1e40af">Used bottles</text>
+  <text x="100" y="105" text-anchor="middle" font-family="Arial" font-size="10" fill="#1e40af">gathered</text>
+  
+  <!-- Arrow 1 -->
+  <path d="M160 80 L190 80" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 2: Sorting -->
+  <rect x="200" y="50" width="100" height="60" fill="#dcfce7" stroke="#16a34a" stroke-width="2" rx="5"/>
+  <text x="250" y="75" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#15803d">Sorting</text>
+  <text x="250" y="90" text-anchor="middle" font-family="Arial" font-size="10" fill="#15803d">By color &amp;</text>
+  <text x="250" y="105" text-anchor="middle" font-family="Arial" font-size="10" fill="#15803d">plastic type</text>
+  
+  <!-- Arrow 2 -->
+  <path d="M310 80 L340 80" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 3: Washing -->
+  <rect x="350" y="50" width="100" height="60" fill="#fef3c7" stroke="#d97706" stroke-width="2" rx="5"/>
+  <text x="400" y="75" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#92400e">Washing</text>
+  <text x="400" y="90" text-anchor="middle" font-family="Arial" font-size="10" fill="#92400e">Remove labels</text>
+  <text x="400" y="105" text-anchor="middle" font-family="Arial" font-size="10" fill="#92400e">&amp; adhesives</text>
+  
+  <!-- Arrow 3 (down) -->
+  <path d="M400 120 L400 150" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 4: Shredding -->
+  <rect x="350" y="160" width="100" height="60" fill="#fce7f3" stroke="#be185d" stroke-width="2" rx="5"/>
+  <text x="400" y="185" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#9d174d">Shredding</text>
+  <text x="400" y="200" text-anchor="middle" font-family="Arial" font-size="10" fill="#9d174d">Cut into</text>
+  <text x="400" y="215" text-anchor="middle" font-family="Arial" font-size="10" fill="#9d174d">small flakes</text>
+  
+  <!-- Arrow 4 (left) -->
+  <path d="M340 190 L310 190" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 5: Melting -->
+  <rect x="200" y="160" width="100" height="60" fill="#f3e8ff" stroke="#7c3aed" stroke-width="2" rx="5"/>
+  <text x="250" y="185" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#5b21b6">Melting</text>
+  <text x="250" y="200" text-anchor="middle" font-family="Arial" font-size="10" fill="#5b21b6">Heat flakes</text>
+  <text x="250" y="215" text-anchor="middle" font-family="Arial" font-size="10" fill="#5b21b6">into liquid</text>
+  
+  <!-- Arrow 5 (left) -->
+  <path d="M190 190 L160 190" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 6: Pellets -->
+  <rect x="50" y="160" width="100" height="60" fill="#ecfdf5" stroke="#059669" stroke-width="2" rx="5"/>
+  <text x="100" y="185" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#047857">Pellets</text>
+  <text x="100" y="200" text-anchor="middle" font-family="Arial" font-size="10" fill="#047857">Form small</text>
+  <text x="100" y="215" text-anchor="middle" font-family="Arial" font-size="10" fill="#047857">plastic pellets</text>
+  
+  <!-- Arrow 6 (down) -->
+  <path d="M100 230 L100 260" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Step 7: New Products -->
+  <rect x="50" y="270" width="100" height="60" fill="#fef2f2" stroke="#dc2626" stroke-width="2" rx="5"/>
+  <text x="100" y="295" text-anchor="middle" font-family="Arial" font-size="12" font-weight="bold" fill="#b91c1c">New Products</text>
+  <text x="100" y="310" text-anchor="middle" font-family="Arial" font-size="10" fill="#b91c1c">Bottles, clothing,</text>
+  <text x="100" y="325" text-anchor="middle" font-family="Arial" font-size="10" fill="#b91c1c">furniture, etc.</text>
+  
+  <!-- Return arrow to collection -->
+  <path d="M160 300 Q300 350 450 300 Q500 280 500 100 Q480 60 150 60" 
+        stroke="#64748b" stroke-width="2" stroke-dasharray="5,5" fill="none" marker-end="url(#arrowhead)"/>
+  <text x="320" y="370" text-anchor="middle" font-family="Arial" font-size="11" fill="#64748b" font-style="italic">
+    Cycle continues with collection of new waste
+  </text>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+            refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+</svg>
